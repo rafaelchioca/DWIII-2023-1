@@ -1,0 +1,42 @@
+div .contato {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    color: white;
+    font-style: normal;
+    background-color: #666666;
+}
+
+div .map {
+    width: 45%;
+    height: 45%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+div .contato-info {
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+
+.main-mail-adddress {
+    font-style: normal;
+    border: 1px solid white;
+    padding: 8px;
+}
+
+a {
+    color: #E0D114;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: square;
+}
